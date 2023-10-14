@@ -5,3 +5,4 @@
 4) if the player_1 holds the points then Player_2 will roll the dice and if Player_1 roll again and gets a dice no 1 then he will lose all the points now Player_2 will roll
 5) After one round the points of both the players will be displayed in their respective section of TotalScoreboard
 6) the one who reaches 100 points first will win the game
+use script.js in index.html**
